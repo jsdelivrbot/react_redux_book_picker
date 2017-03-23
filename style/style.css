@@ -1,0 +1,14 @@
+body {
+  padding: 40px;
+  width: 100%;
+}
+
+.list-group-item:hover {
+  background-color: #ddd;
+}
+
+.details_container {
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
