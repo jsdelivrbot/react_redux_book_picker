@@ -1,14 +1,23 @@
 body {
+  background-color: #EFEFEF;
+  color: #555;
   padding: 40px;
   width: 100%;
 }
 
+.list-group-item {
+  background-color: #66B9Bf;
+  border-color: #555;
+}
+
 .list-group-item:hover {
-  background-color: #ddd;
+  color: #fff;
+  background-color: #07889B;
 }
 
 .details_container {
   padding: 20px;
-  border: 1px solid #ddd;
+  background-color: #66B9Bf;
+  border: 1px solid #555;
   border-radius: 4px;
 }
